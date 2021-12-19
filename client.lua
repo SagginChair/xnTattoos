@@ -30,9 +30,9 @@ function GetNaked()
 			outfitData = {
 				["arms"] = { item = 15, texture = 0 },
 				["t-shirt"] = { item = 15, texture = 0 },
-				["torso2"] = { item = 91, texture = 0 },
-				["pants"] = { item = 61, texture = 0 },
-				["shoes"] = { item = 34, texture = 0 },
+				["torso2"] = { item = 178, texture = 0 },
+				["pants"] = { item = 32, texture = 0 },
+				["shoes"] = { item = 5, texture = 0 },
 				["glass"] = { item = 0, texture = 0 }
 			}
 		})
@@ -41,9 +41,9 @@ function GetNaked()
 			outfitData = {
 				["arms"] = { item = 4, texture = 0 },
 				["t-shirt"] = { item = 15, texture = 0 },
-				["torso2"] = { item = 74, texture = 0 },
-				["pants"] = { item = 17, texture = 0 },
-				["shoes"] = { item = 35, texture = 0 },
+				["torso2"] = { item = 178, texture = 0 },
+				["pants"] = { item = 32, texture = 0 },
+				["shoes"] = { item = 5, texture = 0 },
 				["glass"] = { item = 5, texture = 0 }
 			}
 		})
