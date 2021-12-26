@@ -39,12 +39,12 @@ function GetNaked()
 	else
 		TriggerEvent('qb-clothing:client:loadOutfit', {
 			outfitData = {
-				["arms"] = { item = 4, texture = 0 },
+				["arms"] = { item = 15, texture = 0 },
 				["t-shirt"] = { item = 15, texture = 0 },
-				["torso2"] = { item = 178, texture = 0 },
-				["pants"] = { item = 32, texture = 0 },
-				["shoes"] = { item = 5, texture = 0 },
-				["glass"] = { item = 5, texture = 0 }
+				["torso2"] = { item = 15, texture = 0 },
+				["pants"] = { item = 5, texture = 0 },
+				["shoes"] = { item = 3, texture = 0 },
+				["glass"] = { item = 0, texture = 0 }
 			}
 		})
 	end
